@@ -40,7 +40,9 @@ You can elect to take the entire [React workshop arc](#react-workshop-arc), the 
 **Coding Experience**
 * proficiency with:
   * Javascript
-  * command line utils (bash)
+  * HTML
+  * CSS
+  * command line utils
   * git/GitHub
 
 
@@ -94,7 +96,7 @@ Through this series of workshops, students with little-to-no knowledge of React 
 
 **Schedule**
 
-| Title | Description | Date |
+| Title | Topics Covered | Date |
 | --- | --- | --- |
 | [What is React?]() | text | *TBA* |
 | [Organizing Your Project]() | text | *TBA* |
@@ -122,7 +124,7 @@ This set of workshops is designed to allow students with proficiency in React to
 * proficiency with React
 
 
-| Title | Description | Date |
+| Title | Topics Covered | Date |
 | --- | --- | --- |
 | [What is Redux?]() | text | *TBA* |
 | [Data Flow]() | text | *TBA* |
@@ -137,4 +139,4 @@ This set of workshops is designed to allow students with proficiency in React to
 * Redux Arc: $110
 * Individual Workshop: $30
 
-*Payment and enrollment details TBA*
+*Payment method TBA*
