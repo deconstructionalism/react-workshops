@@ -1,19 +1,6 @@
 # React Workshop Series
 
-<!-- **Description**   -->
-
-Each workshop is 2 hours long. The workshops will consist of
-
-* Lecture
-  > the main concepts of the lesson will be covered here. slides, whiteboarding, and live coding will be used
-* Coding Excersizes
-  > you will perform coding excersizes individually or in groups to practice applying concepts from the lecture
-* Q&A
-  > you will have an opportunity ask the instructor to go back and explain confusing material, or you can ask to get a more detailed understanding about concepts that interest you 
-* Eval
-  > you  will be asked to fill out a quick form at the end of the lesson to help us improve the workshops based on your input
-* Afterwork
-  > you will be provided with code problems and solutions so that you can further test your understanding of the workshop concepts outside of the class. Afterwork is not required. It is there for your benefit if you choose to do it!
+*Description*
 
 ES6
 
@@ -48,6 +35,8 @@ Students may also elect to take any individual workshops that they are intereste
 
 ## Prerequisites
 
+> IMPORTANT: If it is your first time taking one of these workshops, you must send your GitHub username to the [Instructor](#location-and-instructor) prior to the class
+
 **Technology**
 * a Mac or Windows 10 laptop with the following installed:
    * [git](https://git-scm.com/)
@@ -60,8 +49,6 @@ Students may also elect to take any individual workshops that they are intereste
   * Javascript
   * command line utils (bash)
   * git/GitHub
-
-> IMPORTANT: If it is your first time taking one of these workshops, you must send your GitHub username to the [Instructor](#location-and-instructor) prior to the class
 
 ---
 
@@ -87,9 +74,8 @@ Arjun spent many years in academia working on neuroscience and genomics research
 
 ## Class Structure
 
-Each workshop will be 2 hours long. The workshops will consist of the following.
-
-> ~90% of workshop time will be focused on Lecture and Coding Excersizes
+Each workshop will be 2 hours long. The workshops will consist of the following:
+*~90% of workshop time will be focused on Lecture and Coding Excersizes*
 
 * Lecture 
   > the main concepts of the lesson will be covered here. slides, whiteboarding, and live coding will be used
