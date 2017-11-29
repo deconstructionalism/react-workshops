@@ -1,18 +1,13 @@
-# React Workshop Series
+# React / Redux Workshop Series
 
-*Description*
+React + Redux are highly in demand front end web technologies. Through this series of 2 hour workshops in hosted in Providence, you will become proficient in using both. The workshops will also teach ES6 Javascript concepts to extend your capabilites in Javascript, as well as provide resources for each topic that will allow you to dive as deep as you want into the nitty gritty details.
 
-ES6
 
-deeper dive
+**Modular Workshops and Arcs**
 
-afterwork
+You can elect to take the entire [React workshop arc](#react-workshop-arc), the entire [Redux Arc](#react-workshop-arc), or both. Taking an entire arc will be the most comprensive way to learn Redux and/or React. You may also elect to take only take workshops that you are interested in. Within each arc, the workshops build conceptually off of previous material. However, each individual workshop is designed so that the code for that workshop can be run in isolation.
 
-**Modular Workshops**
-
-Students can elect to take the entire [React workshop arc](#react-workshop-arc), the entire [Redux Arc](#react-workshop-arc), or both. Taking an entire arc will be the most comprensive way to learn Redux and/or React. 
-
-Students may also elect to take any individual workshops that they are interested in. Within each arc, the workshops build conceptually off of previous material. However, each individual workshop is designed so that the code for that workshop can be run in isolation.
+### Please check out the sections below for more details about the workshops!
 
 ---
 ## Contents
@@ -54,15 +49,15 @@ Students may also elect to take any individual workshops that they are intereste
 ## Location and Instructor
 
 **Location**  
-*TBA*
+*In Providence; exact location TBA*
 
 **Instructor**   
 Arjun Ray  
 deconstructionalism@gmail.com
 
-<img src="./assets/images/instructor-small.png" style="float: left">
+![](./assets/images/instructor-small.png)
 
-Arjun spent many years in academia working on neuroscience and genomics research before switching to programming, which has proven to be much more rewarding for him. He codes in Python, R, Perl, Ruby, Javascript, and a few other languages, and loves writing elegant, reusable code as well as trying to wrap his brain around low level programming languages and high level computer science concepts. His coding expertise lies in fullstack web application development, probabilistic modeling, data visualization, and statistical inference. He's been a professional touring musician, a recording studio owner/engineer, a teacher, an art curator and music festival organizer over the years. He also loves cooking, creative writing, long distance biking, pretty much all animals, and long comma-separated lists of nouns. At General Assembly, he aims to become the best teacher that he can be as well as test the limits of his own knowledge.
+Arjun spent many years in academia working on neuroscience and genomics research before switching to programming, which has proven to be much more rewarding for him. He codes in Python, R, Perl, Ruby, Javascript, and a few other languages, and loves writing elegant, reusable code as well as trying to wrap his brain around low level programming languages and high level computer science concepts. His coding expertise lies in fullstack web application development, probabilistic modeling, data visualization, and statistical inference. He's been a professional touring musician, a recording studio owner/engineer, a teacher, an art curator and music festival organizer over the years. He also loves cooking, creative writing, long distance biking, pretty much all animals, and long comma-separated lists of nouns. He aims to become the best teacher that he can be as well as test the limits of his own knowledge.
 
 ---
 
@@ -93,7 +88,7 @@ Each workshop will be 2 hours long. The workshops will consist of the following:
 
 [React](https://reactjs.org/) is a Javascript frontend library for building rich, modular, reactive web interfaces. React is arguably the most popular frontend technology in modern web development and comprehensive understanding of React is highly sought after in the job market. 
 
-React imposes somewhat strict hierarchical structure on how front end design is implemented, requiring more forethought than throwing pieces of GUI together in any which way. React also has some idiosyncratic conventions that may not be intuitive at first glance.
+React imposes hierarchical structure on how front end design is implemented, requiring more forethought than throwing pieces of GUI together in any which way. React also has some idiosyncratic conventions that may not be intuitive at first glance.
 
 Through this series of workshops, students with little-to-no knowledge of React will learn the library in detail, as well as build and extend projects using the technology. 
 
@@ -109,8 +104,6 @@ Through this series of workshops, students with little-to-no knowledge of React 
 | [Styling]() | text | *TBA* |
 | [HTTP Requests]() | text | *TBA* |
 
-[vote here for React classes you would like to take](https://github.com/deconstructionalism/react-workshops/issues/1)
-
 ---
 
 ## Redux Workshop Arc
@@ -119,11 +112,11 @@ Through this series of workshops, students with little-to-no knowledge of React 
 
 ![](./assets/images/redux-logo-small.png)
 
-[Redux](https://redux.js.org/) is an architectural pattern for handling the state of an app, which allows for apps to behave in a consistent predictable way, even when scaled up to large size or used in different context. While redux itself is just a pattern, `redux` is a package that implements the pattern in a way that can be used with React. Redux experience can further elevate a job candidate who already has React under their belt.
+[Redux](https://redux.js.org/) is an architectural pattern for handling the state of an app, which allows for apps to behave in a consistent predictable way, even when scaled up to large size or used in different context. While redux itself is just a pattern, `redux` is a package that implements the pattern in a way that can be used with React.
 
-Redux imposes a uni-direction data-flow pattern that encapsulates changes in state and handling of external side-effects in a highly structured way. Because of this structure, there is one and only one right way to implement state changes in an app, which makes the app much more easily debuggable, fault tolerant, and scalable. Because Redux enforces the more general concepts of immutability and functional programming, having Redux experience can elevate a job candidate even in shops where they implment a different architectural pattern.
+Redux imposes a uni-direction data-flow pattern that encapsulates changes in state and handling of external side-effects in a highly structured way. Because of this structure, there is one and only one right way to implement state changes in an app, which makes the app much more easily debuggable, fault tolerant, and scalable. Because Redux enforces the more general concepts of immutability, flux architecture, and functional programming, having Redux experience can elevate a job candidate's hireability even in locations where Redux is not used. 
 
-This set of workshops is designed to allow students with limited or no knowledge of React to be able to understand and implement React on their future projects.
+This set of workshops is designed to allow students with proficiency in React to be able to understand and implement Redux on their future React projects.
 
 **Additional Prerequisites**
 * proficiency with React
@@ -133,11 +126,15 @@ This set of workshops is designed to allow students with limited or no knowledge
 | --- | --- | --- |
 | [What is Redux?]() | text | *TBA* |
 | [Data Flow]() | text | *TBA* |
-| [Routing, Middlewares and Sideeffects]() | text | *TBA* |
+| [Routing, Middlewares and Side-effects]() | text | *TBA* |
 | [Getting and Setting State]() | text | *TBA* |
-
-[vote here for Redux classes you would like to take](https://github.com/deconstructionalism/react-workshops/issues/1)
 
 ---
 
 ## Enrollment
+
+* React Arc: $190
+* Redux Arc: $110
+* Individual Workshop: $30
+
+*Payment and enrollment details TBA*
