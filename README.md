@@ -135,8 +135,4 @@ This set of workshops is designed to allow students with proficiency in React to
 
 ## Enrollment
 
-* React Arc: $190
-* Redux Arc: $110
-* Individual Workshop: $30
-
 *Payment method TBA*
